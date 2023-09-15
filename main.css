@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/24/Lufthansa_Airbus_A320-211_D-AIQT_01.jpg);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#airplane-div {
+    display: flex;
+    flood-color: aliceblue;
+    align-items: center;
+}
